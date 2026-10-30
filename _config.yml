@@ -9,10 +9,10 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-url: https://eugestumm.github.io
+url: https://scotfrench09-dev.github.io
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-baseurl: /CollectionBuilder-Remix
+baseurl: /timecapsule
 # location of code, the full url to your github repository
 source-code: https://github.com/eugestumm/CollectionBuilder-Remix
 
@@ -20,10 +20,10 @@ source-code: https://github.com/eugestumm/CollectionBuilder-Remix
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: 'CollectionBuilder-Remix: Collection Sample'
+title: 'CollectionBuilder-Remix: Collection Sample for FLDH Workship'
 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Based on Gender Inclusive Spanish Digital Archive
+tagline: Based on My Own Stuff
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This collection is a pedagogical sample based on the <a href=\"https://eugestumm.github.io/gender-inclusive-spanish-digital-archive/\"\
